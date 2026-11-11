@@ -3,4 +3,4 @@
 fs_sim
 fs_sim_test
 filesystem.dat
-main
+build/
