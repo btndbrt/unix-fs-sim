@@ -73,7 +73,13 @@ The loader parses recursively and pushes each new directory into a list in parse
 ### Building the Project
 
 ```bash
-g++ -o fs_sim src/*.cpp
+make
+```
+
+### Building tests
+
+```bash
+make test
 ```
 
 ## Architecture Visualization
