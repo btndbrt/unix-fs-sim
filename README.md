@@ -70,16 +70,18 @@ The loader parses recursively and pushes each new directory into a list in parse
 
 ## Usage
 
-### Building the Project
+### Building and running the Project
 
 ```bash
 make
+./fs_sim
 ```
 
-### Building tests
+### Building and running tests
 
 ```bash
 make test
+./fs_sim_test
 ```
 
 ## Architecture Visualization
